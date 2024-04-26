@@ -1,0 +1,59 @@
+html, body, h1, ul {
+  margin: 0;
+  padding: 0;
+}
+
+#the_container {
+  background-color: green;
+  border: 4px solid cyan;
+  width: 22%;
+  margin-top: 20px;
+  margin-left: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+h1 {
+  color: white;
+  -webkit-text-stroke: 1.5px black;
+  margin-top: 10px;
+}
+#first-paregraph {
+  color: blue;
+}
+hr {
+  border: 2px solid;
+}
+ul {
+  list-style: none;
+}
+
+#2nd-hr {
+  border-color: green;
+}
+
+span {
+  font-weight: 900;
+  color: red;
+}
+
+#hello {
+  margin-left: 20px;
+}
+
+#gay_link {
+  margin-left: 1000px;
+}
+
+#tw1 {
+  color: purple;
+}
+#tw2 {
+  color: pink;
+}
+#tw3 {
+  color: red;
+}
+#tw4 {
+  color: lime;
+}
